@@ -23,8 +23,8 @@
         "source": "https://central.hoa-project.net/Resource/Library/Zformat"
     },
     "require": {
-        "hoa/consistency": "~1.0",
-        "hoa/exception"  : "~1.0"
+        "hoa/consistency": "dev-master",
+        "hoa/exception"  : "dev-master"
     },
     "autoload": {
         "psr-4": {
